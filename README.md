@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Amina. I'm a fullstack developer and aspiring Product Manager, currently based in London 🇬🇧
+
 
 <!--
 **amina9600/amina9600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
