@@ -7,7 +7,7 @@
 
 My Bootcamp projects:
 - [Elevate](https://elevate-app-eb1900f429e9.herokuapp.com/): a private tutoring app
-- [Citizi](https://citizi-47023f4d353d.herokuapp.com/): flexible access to hotel services  
+- [Citizi](https://citizi-47023f4d353d.herokuapp.com/): flexible access to hotel services app 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
