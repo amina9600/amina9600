@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **HolidayHomeRentalApp**
 - 📚 I'm currently reading **The Lean Startup by Eric Ries**
-- 📫 How to reach me **aminarghafor@gmail.com**
+- 🌱 I’m currently working to improve my skills in **Ruby, Ruby on Rails, CSS and JavaScript**
 
-My bootcamp projects:
+My Bootcamp projects:
 - [Elevate](https://elevate-app-eb1900f429e9.herokuapp.com/): a private tutoring app
 - [Citizi](https://citizi-47023f4d353d.herokuapp.com/): flexible access to hotel services  
 
