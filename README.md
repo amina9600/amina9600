@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
 <h3 align="center"> Fullstack developer and Growth Team Lead @ SeedLegals | Currently based in London 🇬🇧 </h3>
 
-## My bootcamp projects:
-- [Elevate](https://elevate-app-eb1900f429e9.herokuapp.com/): a private tutoring app
-- [Citizi](https://citizi-47023f4d353d.herokuapp.com/): flexible access to hotel services  
-
 - 🔭 I’m currently working on **HolidayHomeRentalApp**
 - 📚 I'm currently reading **The Lean Startup by Eric Ries**
 - 📫 How to reach me **aminarghafor@gmail.com**
+
+My bootcamp projects:
+- [Elevate](https://elevate-app-eb1900f429e9.herokuapp.com/): a private tutoring app
+- [Citizi](https://citizi-47023f4d353d.herokuapp.com/): flexible access to hotel services  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
