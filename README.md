@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Amina. I'm a fullstack developer and aspiring Product Manager, currently based in London 🇬🇧
+### I'm Amina, I'm a fullstack developer and aspiring Product Manager, currently based in London 🇬🇧
 
 
 <!--
