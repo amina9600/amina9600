@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HolidayHomeRentalApp**
 - 📚 I'm currently reading **The Lean Startup by Eric Ries**
-- 🌱 I’m currently working to improve my skills in ** Kotlin, Ruby on Rails, CSS and JavaScript**
+- 🌱 I’m currently working to improve my skills in **Kotlin, Ruby on Rails, CSS and JavaScript**
 
 My Bootcamp projects:
 - [Elevate](https://elevate-app-eb1900f429e9.herokuapp.com/): a private tutoring app
