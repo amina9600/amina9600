@@ -5,10 +5,6 @@
 - 📚 I'm currently reading **The Lean Startup by Eric Ries**
 - 🌱 I’m currently working to improve my skills in **SQL, CSS and JavaScript**
 
-My Bootcamp projects:
-- [Elevate](https://elevate-app-eb1900f429e9.herokuapp.com/): a private tutoring app
-- [Citizi](https://citizi-47023f4d353d.herokuapp.com/): flexible access to hotel services app 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amina-ghafor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amina-ghafor/" height="30" width="40" /></a>
